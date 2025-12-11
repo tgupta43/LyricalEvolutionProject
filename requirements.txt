@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+nltk
+transformers
+torch # This is a large dependency, ensure you have enough space.
+matplotlib
+seaborn
+spacy
+plotly
+streamlit
