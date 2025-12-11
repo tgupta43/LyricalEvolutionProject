@@ -127,4 +127,9 @@ Collaborative Features: I will consider adding functionalities that would allow 
 
 Cloud Deployment: I aim to deploy the Streamlit application to a public cloud platform (e.g., Streamlit Cloud, AWS, Azure) to make it easily accessible to a wider audience without requiring local setup.
 
+
 These enhancements will transform the tool into an even more powerful, flexible, and comprehensive resource for understanding the rich cultural narratives embedded within music.
+
+
+
+link to video demo: https://mediaspace.illinois.edu/media/t/1_mrqfw7f3
